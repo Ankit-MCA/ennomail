@@ -25,6 +25,7 @@
         </li>
     @endauth
 </ul>
+
     <!-- Filter and Sort Options -->
     <div class="form-row mb-3">
         <div class="col">
